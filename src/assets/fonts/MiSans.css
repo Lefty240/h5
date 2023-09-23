@@ -1,0 +1,26 @@
+/* MiSans-Normal 400 */
+/* @/assets/fonts/MiSans-Normal.ttf */
+@font-face {
+    font-family: 'MiSans';
+    src: url('https://public-usa.oss-accelerate.aliyuncs.com/typeface/MiSans-Normal.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* MiSans-Medium 500 */
+/* @/assets/fonts/MiSans-Medium.ttf */
+@font-face {
+    font-family: 'MiSansMedium';
+    src: url('https://public-usa.oss-accelerate.aliyuncs.com/typeface/MiSans-Medium.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* MiSans-Thin  300 */
+/* @/assets/fonts/MiSans-Thin.ttf */
+@font-face {
+    font-family: 'MiSansThin';
+    src: url('https://public-usa.oss-accelerate.aliyuncs.com/typeface/MiSans-Thin.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
